@@ -6,6 +6,7 @@ relative_links:
 include:
   - CONTRIBUTING.md
   - README.md
+  - 01 Intro CS149_Notes.md
   - LICENSE.md
   - COPYING.md
   - CODE_OF_CONDUCT.md
