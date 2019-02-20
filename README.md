@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## CS 149 - Operating Systems - Notes
 
 You can use the [editor on GitHub](https://github.com/JessicaHoang/CS149-Notes/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
