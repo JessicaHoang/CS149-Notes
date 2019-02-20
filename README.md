@@ -29,4 +29,5 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JessicaHoang/CS149-Notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 
-[Home] ( https://jessicahoang.github.io/CS149-Notes/)
+Click on [Home](https://jessicahoang.github.io/CS149-Notes/) to visit the website
+[repository settings](https://github.com/JessicaHoang/CS149-Notes/settings).
